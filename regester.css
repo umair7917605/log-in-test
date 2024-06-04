@@ -1,0 +1,20 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+body{
+color: aquamarine;
+background-color: rgb(137, 199, 235);
+}
+
+#input{
+    border-style:solid ;
+    border-color: white;
+
+}
+#umr{
+    background-color: brown;
+    width: 500px;
+}
